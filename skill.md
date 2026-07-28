@@ -4,6 +4,7 @@
 
 ---
 
+
 ## What This Skill Does
 
 Code Atlas analyzes a software repository and produces structured, audience-appropriate documentation. It does **not** generate code — it generates **understanding**.
